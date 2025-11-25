@@ -1,0 +1,21 @@
+// Essay 
+// -1 
+// foreach علي arrays فقط ومينفعش مع async و await 
+// for...of تنفع مع اي حاجه زي string مثلا وكمان مع الasync و await
+
+//-2 
+//  hoisting يرفع التعريف (declaration) فوق قبل التنفيذ 
+// tdz الفتره الزمنيه بين بدايه ال scope والتعريف نفسه
+
+// -3
+//  "==" compare values , "===" compare values and data types 
+
+// 4
+//  try بيحاول تنفيذ الكود 
+// catch بيحاول يطلع اي error لو حصل 
+
+// 5  
+// ان في حاجتين مش من نفس ال type ف في حاجه منهم بيتغير ال type بتاع التاني
+// 5 + "5"; // "55"  (number >> string)
+// "5" * 2; // 10    (string >> number)
+//true + 1; // 2    (boolean >> number)
